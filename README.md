@@ -36,4 +36,4 @@ Current work is centered around intelligent applications, machine learning, gene
 - X: https://x.com/PremNSharma
 - Instagram: https://www.instagram.com/e05yxai/
 - Reddit: https://www.reddit.com/user/e05yxai/
-- Medium: https://medium.com/@e05yxai
+- Medium: https://medium.com/@premnsharma
