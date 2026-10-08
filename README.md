@@ -33,7 +33,7 @@ Current work is centered around intelligent applications, machine learning, gene
 
 - GitHub: https://github.com/premsh7rma
 - LinkedIn: https://www.linkedin.com/in/prem-narayan-sharma-31629128b/
-- X: https://x.com/e05yxai
+- X: https://x.com/PremNSharma
 - Instagram: https://www.instagram.com/e05yxai/
 - Reddit: https://www.reddit.com/user/e05yxai/
 - Medium: https://medium.com/@e05yxai
